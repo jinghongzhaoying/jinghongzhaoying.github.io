@@ -5,6 +5,32 @@
     <link>http://example.org/</link>
     <description>Recent content on Zhang zhiyu personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 09 Feb 2022 16:55:14 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Wed, 09 Feb 2022 16:55:14 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Thu, 27 Jan 2022 10:45:33 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>全天和告警
+为什么要用切割为小文传输
+oss 提供append 会省多少
+目前给设备签名的云录像又是怎么签的 大概多久
+外网 出去流量
+265
+get 请求数量 156
+   名称 费用 (元)     外网流出流量 260   Get请求量 156.08   put请求量 211   标准存储（本地冗余）容量 2174   总存储容量 22 367 199.98    </description>
+    </item>
+    
   </channel>
 </rss>
